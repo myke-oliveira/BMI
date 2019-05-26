@@ -1,0 +1,474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bu",
+				"buttonD"
+			],
+			[
+				"butt",
+				"buttonReply"
+			],
+			[
+				"Butt",
+				"button"
+			],
+			[
+				"__",
+				"__main__"
+			],
+			[
+				"board",
+				"BOARDHEIGHT"
+			],
+			[
+				"Board",
+				"BOARDHEIGHT"
+			],
+			[
+				"nu",
+				"numIconsUsed"
+			],
+			[
+				"B",
+				"BOARDHEIGHT"
+			],
+			[
+				"BOAR",
+				"BOARDWIDTH"
+			],
+			[
+				"ALL",
+				"ALLSHAPES"
+			],
+			[
+				"FPS",
+				"fpsClock"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"reve",
+				"revealedBoxes"
+			],
+			[
+				"f",
+				"firstSelection"
+			],
+			[
+				"mouse",
+				"mousey"
+			],
+			[
+				"mou",
+				"mousex"
+			],
+			[
+				"re",
+				"revealedBoxes"
+			],
+			[
+				"main",
+				"mainBoard"
+			],
+			[
+				"win",
+				"WINDOWHEIGHT"
+			],
+			[
+				"WIN",
+				"WINDOWHEIGHT"
+			],
+			[
+				"gap",
+				"GAPSIZE"
+			],
+			[
+				"box",
+				"BOXSIZE"
+			],
+			[
+				"boar",
+				"BOARDWIDTH"
+			],
+			[
+				"wi",
+				"WINDOWWIDTH"
+			],
+			[
+				"BOARD",
+				"BOARDWIDTH"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"te",
+				"textRectObj"
+			],
+			[
+				"w",
+				"WHITE"
+			],
+			[
+				"cat",
+				"catx"
+			],
+			[
+				"b",
+				"BLACK"
+			],
+			[
+				"all",
+				"align-self"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"clas",
+				"classe-a"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"tex",
+				"texto-padrão"
+			],
+			[
+				"fot",
+				"font-style"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"a",
+				"align-items"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 124.0,
+		"last_filter": "menu",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 147.0,
+		"history":
+		[
+			"ls",
+			"pwd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me/BMI"
+	],
+	"file_history":
+	[
+		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me/window.py",
+		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me/menu.py",
+		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me/layout1.py",
+		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me/README.md",
+		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me/firstUIDesigner.py",
+		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me/firstUI.ui",
+		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me/text.py",
+		"/home/myke/Dropbox/invent-with-python/Making-Games-With-Python-And-Pygame/memory-puzzle/memory-puzzle.py",
+		"/home/myke/Dropbox/invent-with-python/Making-Games-With-Python-And-Pygame/memory-puzzle/README.md",
+		"/home/myke/Dropbox/invent-with-python/Making-Games-With-Python-And-Pygame/basic/backgroundsound.py",
+		"/home/myke/Dropbox/invent-with-python/Making-Games-With-Python-And-Pygame/basic/soundefect.py",
+		"/home/myke/Dropbox/invent-with-python/Making-Games-With-Python-And-Pygame/basic/README.md",
+		"/home/myke/Dropbox/invent-with-python/Making-Games-With-Python-And-Pygame/basic/drawing.py",
+		"/home/myke/Dropbox/invent-with-python/Making-Games-With-Python-And-Pygame/basic/blankpygame.py",
+		"/home/myke/Dropbox/invent-with-python/Making-Games-With-Python-And-Pygame/basic/fonts.py",
+		"/home/myke/Dropbox/invent-with-python/Making-Games-With-Python-And-Pygame/basic/catanimation.py",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula 71.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula 62.css",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula 46.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula 62a.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula 62.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula 38.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula 41.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula 23.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula 21.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula 26.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula 22.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/contato.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula20.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula19.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/aula 11.html",
+		"/home/myke/Dropbox/Udemy-Curso-Web/udemy-curso-web.sublime-project",
+		"/home/myke/Dropbox/git_course/04 ligando repositórios.txt",
+		"/home/myke/Dropbox/Curso-Latex/23 aula/index.html",
+		"/home/myke/Dropbox/Curso-Latex/05 Aula/05 Aula.html",
+		"/home/myke/Dropbox/git_course/Manual.md",
+		"/home/myke/Dropbox/git_course/03 manipulando o git.txt",
+		"/home/myke/Dropbox/git_course/02 iniciando repositório.txt",
+		"/home/myke/Documents/Greetings.sb.bas",
+		"/home/myke/Dropbox/Khan Academy HTML CSS/004 All about rabits.html",
+		"/home/myke/Dropbox/Estudo On Line/Curso de Css/elementos-flutuantes.html",
+		"/home/myke/Dropbox/Estudo On Line/Curso de Css/galeria.html",
+		"/home/myke/Dropbox/Estudo On Line/Curso de Css/links.html",
+		"/home/myke/Dropbox/Estudo On Line/Curso de Css/posicionamento.html",
+		"/home/myke/Dropbox/Estudo On Line/Curso de Css/formatação-textos.html",
+		"/home/myke/Dropbox/Estudo On Line/Curso de Css/modelo-caixa.html",
+		"/home/myke/Dropbox/Estudo On Line/Curso de Css/cursodecss.sublime-project",
+		"/home/myke/Dropbox/Estudo On Line/Curso de Css/index.html",
+		"/home/myke/Dropbox/Estudo On Line/Curso de Css/span-div.html",
+		"/home/myke/Dropbox/Estudo On Line/Curso de Css/border.html",
+		"/home/myke/Dropbox/Estudo On Line/Curso de Css/fontes-cores.html",
+		"/home/myke/Diagram1.dia",
+		"/home/myke/Diagram1.svg",
+		"/home/myke/Documents/w3school/index.html",
+		"/home/myke/Documents/w3school/imagem-boba.html",
+		"/home/myke/Documents/Diagram1.dia",
+		"/home/myke/Documents/w3school/menu.html",
+		"/home/myke/Untitled Chess Game.pgn",
+		"/home/myke/Documents/w3school/mapa-de-imagem.html",
+		"/home/myke/Documents/w3school/mesa.html",
+		"/home/myke/Documents/pag/index.html",
+		"/home/myke/Documents/pag/hello_word.c",
+		"/home/myke/Dropbox/Semestre 10/Redes de Computadores/VLANS.md",
+		"/home/myke/.local/share/applications/chrome-gbchcmhmhahfdphkhkmpfmihenigjmpp-Default.desktop"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"layout",
+			"Layout",
+			"layout",
+			"pr&#195;&#161;ticas",
+			"Matem&#195;&#161;tico",
+			"Se&#195;&#167;&#195;&#163;o",
+			"Sum&#195;&#161;rio"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"layouth",
+			"práticas",
+			"Matemático",
+			"Seção",
+			"Sumário"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 69.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
