@@ -13,12 +13,13 @@ class MainWindow(QMainWindow):
 		try:
 			height = float(self.edtHeight.text())
 		except ValueError as e:
-			print('Not valid height.')
+			QMessageBox.question(self, 'Value Error', 'Not valid height', QMessageBox.Ok, QMessageBox.Ok)
 			return
 		try:
 			weight = float(self.edtWeight.text())
-		except Exception as e:
-			print('Not valid weight.')
+		except ValueError as e:
+			QMessageBox.question(self, 'Value Error', 'Not valid weight', QMessageBox.Ok, QMessageBox.Ok)
+			return
 		bmi = weight / height ** 2
 		self.lblBMI.setText(str(bmi))
 		
