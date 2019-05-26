@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"Q",
+				"QMessageBox"
+			],
+			[
 				"bu",
 				"buttonD"
 			],
@@ -231,6 +235,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "bmi.py",
+			"settings":
+			{
+				"buffer_size": 824,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -270,10 +283,11 @@
 	},
 	"expanded_folders":
 	[
-		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me/BMI"
+		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me-BMI"
 	],
 	"file_history":
 	[
+		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me-BMI/bmi.py",
 		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me/window.py",
 		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me/menu.py",
 		"/home/myke/Dropbox/Udemy/Udemy-PyQt/Me/layout1.py",
@@ -384,8 +398,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "bmi.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								636,
+								636
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -465,7 +509,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 245.0,
 	"status_bar_visible": true,
 	"template_settings":

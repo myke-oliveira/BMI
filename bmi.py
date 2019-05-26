@@ -21,7 +21,20 @@ class MainWindow(QMainWindow):
 			QMessageBox.question(self, 'Value Error', 'Not valid weight', QMessageBox.Ok, QMessageBox.Ok)
 			return
 		bmi = weight / height ** 2
-		self.lblBMI.setText(str(bmi))
+		self.lblBMI.setText(f'{bmi:5.4}')
+		if bmi < 18.5:
+			desc = 'Underweight'
+		elif bmi < 25:
+			desc = 'Normal weight'
+		elif bmi < 30:
+			desc = 'Over weight'
+		elif bmi < 35:
+			desc = 'Obese class 1'
+		elif bmi < 40:
+			desc = 'Obese class 2'
+		else:
+			desc = 'Obese class 3'
+		self.lblDescription.setText(desc)
 		
 
 

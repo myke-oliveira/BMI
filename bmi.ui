@@ -6,12 +6,12 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>180</width>
-    <height>200</height>
+    <width>186</width>
+    <height>240</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>BMI Calculator</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QWidget" name="verticalLayoutWidget">
@@ -20,7 +20,7 @@
       <x>10</x>
       <y>10</y>
       <width>160</width>
-      <height>146</height>
+      <height>185</height>
      </rect>
     </property>
     <layout class="QVBoxLayout" name="verticalLayout">
@@ -53,6 +53,18 @@
      </item>
      <item>
       <widget class="QLabel" name="lblBMI">
+       <property name="font">
+        <font>
+         <pointsize>20</pointsize>
+        </font>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="lblDescription">
        <property name="text">
         <string/>
        </property>
@@ -66,7 +78,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>180</width>
+     <width>186</width>
      <height>20</height>
     </rect>
    </property>
